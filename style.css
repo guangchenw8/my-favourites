@@ -1,0 +1,29 @@
+html {
+  background-color: rgb(243, 194, 148);
+  background-image: url(images/corkboard.jpg);
+  background-size: auto;
+}
+body {
+  background-color: rgba(255, 249, 223, 0.85);
+  width: 750px;
+  margin: auto;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(143, 117, 84);
+}
+.center {
+  text-align: center;
+}
+p {
+  width: 500px;
+  margin: auto;
+}
+ol {
+  margin: 60px;
+}
+a {
+  color: rgb(143, 117, 84);
+}
+a:hover {
+  color: rgb(41, 34, 25);
+}
